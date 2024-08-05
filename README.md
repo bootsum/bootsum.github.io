@@ -4,4 +4,4 @@
 
 [首页](bootsum.github.io)。
 
-[首页]( bootsum.com)。
+[首页](bootsum.com)。
